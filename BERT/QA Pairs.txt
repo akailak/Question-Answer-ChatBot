@@ -1,0 +1,51 @@
+ArticleTitle	Question	Answer	DifficultyFromQuestioner	DifficultyFromAnswerer	ArticleFile
+Alessandro_Volta	Volta became professor of physics in the Como high school in what year?	In 1774, Volta became professor of physics in the Como high school.	NULL	NULL	data/set4/a10
+Alessandro_Volta	What is ac phaenomenis inde pendentibus?	His first scientific paper	NULL	NULL	data/set4/a10
+Alessandro_Volta	What may be called Volta's Law of the electrochemical series?	two identical electrodes and a common electrolyte give zero net emf	NULL	NULL	data/set4/a10
+Alessandro_Volta	Is it true that volta became professor of physics?	In 1779 he became professor of experimental physics at the University of Pavia	NULL	NULL	data/set4/a10
+Alessandro_Volta	Is it true that volta entered retirement in spain?	Volta entered retirement in Spain.	NULL	NULL	data/set4/a10
+Alessandro_Volta	When did he become professor?	In 1779 he became professor of experimental physics at the University of Pavia	NULL	NULL	data/set4/a10
+Alessandro_Volta	What did Alessandro Volta publish in 1800?	He published his invention of the Voltaic pile battery in 1800 in the Philosophical Transactions of the Royal Society.	NULL	NULL	data/set4/a10
+Alessandro_Volta	Is Volta buried in the city of Como?	Volta is buried in the city of Como.	NULL	NULL	data/set4/a10
+Alessandro_Volta	Was his 1800 paper written in French ?	His 1800 paper was written in French.	NULL	NULL	data/set4/a10
+Alessandro_Volta	Are Count Volta 's original instruments and papers on display there ?	At the Tempio Voltiano near Lake Como there is a museum devoted to explaining his work. Count Volta's original instruments and papers are on display there.	NULL	NULL	data/set4/a10
+Alessandro_Volta	What happened in 1800?	he invented the voltaic pile, an early electric battery	NULL	NULL	data/set4/a10
+Alessandro_Volta	When did Volta get married?	In 1794	NULL	NULL	data/set4/a10
+Henri_Becquerel	What led Becquerel to investigate the spontaneous emission of nuclear radiation?	Becquerel found that the photographic plates were fully exposed.	NULL	hard	data/set4/a9
+Henri_Becquerel	Is it true that he shared the nobel prize in physics?	he shared the Nobel Prize in Physics with Pierre and Marie Curie	NULL	easy	data/set4/a9
+Henri_Becquerel	Was Becquerel elected Permanent Secretary of the Academie des Sciences?	Becquerel was elected Permanent Secretary	NULL	easy	data/set4/a9
+Henri_Becquerel	Who won the 1903 Nobel Prize in Physics for discovering radioactivity ?	In 1903, he shared the Nobel Prize in Physics with Pierre and Marie Curie	NULL	medium	data/set4/a9
+Henri_Becquerel	Did he not die at the age of 55 in Le Croisic ?	He died at the age of 55 in Le Croisic.	NULL	easy	data/set4/a9
+Henri_Becquerel	What happened in 1896?	Becquerel accidentally discovered radioactivity.	NULL	hard	data/set4/a9
+Henri_Becquerel	Is there a becquerel crater on the moon and a becquerel crater on mars?	there is a Becquerel crater on the Moon and a Becquerel crater on Mars.	NULL	easy	data/set4/a9
+Henri_Becquerel	What is the SI unit for radioactivity?	the becquerel (Bq)	NULL	easy	data/set4/a9
+kangaroo	Is a kangaroo a reptile?	A kangaroo is a marsupial from the family Macropodidae	easy	easy	data/set1/a1
+kangaroo	Is a kangaroo on the Australian coat of arms?	it is featured on the Australian coat of arms	easy	medium	data/set1/a1
+kangaroo	What is a collective noun for kangaroos?	The collective noun for kangaroos is a mob, troop, or court. Kangaroos are sometimes colloquially referred to as roos.	medium	medium	data/set1/a1
+kangaroo	Where do joeys complete postnatal development?	a pouch called a marsupium	medium	medium	data/set1/a1
+kangaroo	Why do kangaroos have a wide bite?	Since the two sides of the lower jaw are not joined together, the lower incisors are farther apart, giving the kangaroo a wider bite.	hard	hard	data/set1/a1
+kangaroo	Are wild kangaroos shot for meat?	the kangaroo was a very important animal for Australian Aborigines, for its meat	easy	easy	data/set1/a1
+kangaroo	Have kangaroos fared well since European settlement?	kangaroos have fared well since European settlement	easy	easy	data/set1/a1
+kangaroo	Is a Kangaroo a Marsupial?	A kangaroo is a marsupial	easy	NULL	data/set1/a1
+kangaroo	What is used to protect a vehicale from a Kangaroo?	roo bars	hard	hard	data/set1/a1
+kangaroo	Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?	Kangaroos dazzled by headlights or startled by engine noise have been known to leap in front of cars.	NULL	easy	data/set1/a1
+kangaroo	Is a collision with a vehicle capable of killing a kangaroo ?	A collision with a vehicle is capable of killing a kangaroo.	NULL	easy	data/set1/a1
+Romania	Does Romania border Hungary?	It shares a border with Hungary	easy	easy	data/set2/a7
+Romania	Is Romania a secular state?	Romania is a secular state, thus having no national religion.	easy	easy	data/set2/a7
+Romania	Is the president elected by popular vote?	The president is elected by popular vote	easy	easy	data/set2/a7
+Romania	How many counties is Romania divided into?	Romania is divided into forty-one counties	medium	medium	data/set2/a7
+Romania	Does Romania share a border with Ukraine?	It shares a border with Hungary and Serbia to the west, Ukraine and the Republic of Moldova to the northeast	easy	easy	data/set2/a7
+Romania	Did Romania declare neutrality during World War I?	when World War I broke out, Romania declared neutrality.	easy	easy	data/set2/a7
+Romania	Does Romania share the same language with Moldova?	Relations with Moldova are rather special, considering that the two countries practically share the same language	easy	medium	data/set2/a7
+Romania	Who was the first gymnast to score a perfect ten?	the gymnast Nadia Comăneci	medium	medium	data/set2/a7
+Romania	What is the largest city in Romania?	largest city is Bucharest	medium	medium	data/set2/a7
+Romania	Why doesn't Romania have a state religion?  	Romania is a secular state, thus having no national religion.	hard	hard	data/set2/a7
+Romania	Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?	Saxon medieval city of Sibiu (Nagyszeben), European Capital of Culture in 2007	NULL	medium	data/set2/a7
+Romania	Is it true that romania has a population of 21,698,181?	Romania has a population of 21,698,181	NULL	easy	data/set2/a7
+Romania	What did Tourism in Romania attract in 2005?	Tourism attracted in 2005 investments worth 400 million euros	NULL	medium	data/set2/a7
+Romania	Is Romania a secular state?	Romania is a secular state	NULL	easy	data/set2/a7
+Romania	Is Romania a semi-presidential unitary state?	Romania is a semi-presidential democratic republic	NULL	easy	data/set2/a7
+Romania	Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?	Romania is a semi-presidential democratic republic where executive functions are shared between the president and the prime minister.	NULL	easy	data/set2/a7
+Romania	Was Gellu Naum the leader of the surrealist movement in Romania ?	Gellu Naum was the leader of the surrealist movement	NULL	easy	data/set2/a7
+Romania	Was the Bucharest Metro only opened in 1979 ?	The Bucharest Metro was only opened in 1979.	NULL	easy	data/set2/a7
+Romania	Is romania a semi-presidential unitary state?	Romania is a semi-presidential democratic republic	NULL	easy	data/set2/a7
